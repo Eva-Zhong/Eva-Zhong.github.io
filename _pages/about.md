@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
--My name is Eva Zhong. I am a senior at Carnegie Mellon University studying Statistics and Machine Learning, with a Computer Science Minor. 
+I am a senior at Carnegie Mellon University studying Statistics and Machine Learning, with a Computer Science Minor.

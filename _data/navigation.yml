@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: /markdown/
+    url: /about/
 
   - title: "CV"
-    url: "Eva_Yifan_Zhong_ResearchCV_2020_04.pdf"
+    url: /files/Eva_Yifan_Zhong_ResearchCV_2020_04.pdf
 
   - title: "Publications"
     url: /publications/
