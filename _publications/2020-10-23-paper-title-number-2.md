@@ -2,8 +2,8 @@
 title: "A field study of related video recommendations: newest, most similar, or most relevant?"
 collection: publications
 permalink: /publication/2018-10-01-A-field-study-of-related-video-recommendations
-excerpt: 'This paper is based on a field study of users' response to different video recommendation algorithms.'
-date: 2018-09-01
+excerpt: 'A field study of users' response to different video recommendation algorithms.'
+date: 2018-10-01
 venue: 'ACM RecSys'
 paperurl: 'https://dl.acm.org/doi/10.1145/3240323.3240395'
 ---
