@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "A field study of related video recommendations: newest, most similar, or most relevant?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-10-01-A-field-study-of-related-video-recommendations
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2018-09-01
+venue: 'ACM RecSys'
+paperurl: 'https://dl.acm.org/doi/10.1145/3240323.3240395'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper is based on a field study of users' response to different video recommendation algorithms.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Many video sites recommend videos related to the one a user is watching. These recommendations have been shown to influence what users end up exploring and are an important part of a recommender system. Plenty of methods have been proposed to recommend related videos, but there has been relatively little work that compares competing strategies.
+
+We describe a field study of related video recommendations, where we deploy algorithms to recommend related movie trailers. Our results show that recency- and similarity-based algorithms yield the highest click-through rates, and that the recency-based algorithm leads to the most trailer-level engagement. Our findings suggest the potential to design non-personalized yet effective related item recommendation strategies.
+
+[Access paper here](https://dl.acm.org/doi/10.1145/3240323.3240395)
