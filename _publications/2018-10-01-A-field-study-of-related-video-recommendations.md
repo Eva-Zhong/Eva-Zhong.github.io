@@ -2,13 +2,11 @@
 title: "A field study of related video recommendations: newest, most similar, or most relevant?"
 collection: publications
 permalink: /publication/2018-10-01-A-field-study-of-related-video-recommendations
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-09-01
+excerpt: 'A field study of users' response to different video recommendation algorithms.'
+date: 2018-10-01
 venue: 'ACM RecSys'
 paperurl: 'https://dl.acm.org/doi/10.1145/3240323.3240395'
 ---
-
-This paper is based on a field study of users' response to different video recommendation algorithms.
 
 Many video sites recommend videos related to the one a user is watching. These recommendations have been shown to influence what users end up exploring and are an important part of a recommender system. Plenty of methods have been proposed to recommend related videos, but there has been relatively little work that compares competing strategies.
 
