@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "CV"
-    url: /files/Eva_Yifan_Zhong_ResearchCV_2020_04.pdf
+  - title: "Resume"
+    url: /files/Yifan_Eva_Zhong_Resume_11_2020.pdf
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Blog Posts"
+  - title: "Projects & Posts"
     url: /year-archive/
